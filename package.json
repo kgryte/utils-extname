@@ -1,6 +1,6 @@
 {
   "name": "utils-extname",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns a filename extension.",
   "author": {
     "name": "Athan Reines",
